@@ -72,3 +72,16 @@ I am a college student who loves learning new things, improving skills, and expl
 </div>
 
 ---
+---
+
+## ✨ Quick Facts
+
+🚀 Problem Solver &nbsp;|&nbsp; 🤝 Team Player &nbsp;|&nbsp; 📚 Continuous Learner &nbsp;|&nbsp; 💡 Tech Enthusiast
+
+<div align="left">
+
+| 🧩 DSA Problems Solved | 🛠 Projects Built | 💻 Technologies Learned | 📅 Years of Learning |
+|:---:|:---:|:---:|:---:|
+| **50+** | **5+** | **10+** | **1+** |
+
+</div>
