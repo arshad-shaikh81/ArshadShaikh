@@ -1,16 +1,10 @@
-<!-- Header Wave Banner -->
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=I'm%20%3CShaikh_Arshad%20/%3E&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer&descAlignY=60&descColor=a78bfa&animation=twinkling" />
-</div>
-
-<!-- Open To Work + Visitors -->
 <div align="center">
 
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20To%20Work-Available-3fb950?style=for-the-badge&labelColor=0d1117)
+# 👋 Hi, I'm Shaikh Arshad
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+%26+Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Systems+%E2%9A%A1)](https://git.io/typing-svg)
+
 ![Visitors](https://komarev.com/ghpvc/?username=arshad-shaikh81&label=Profile+Views&color=a78bfa&style=for-the-badge)
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend+%26+Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Systems+%E2%9A%A1;NestJS+%7C+Node.js+%7C+PostgreSQL+%F0%9F%9B%A0;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,8 +27,8 @@ A passionate **Full Stack Developer** with a deep love for building scalable, pr
 
 [![GitHub](https://img.shields.io/badge/GitHub-arshad--shaikh81-181717?style=for-the-badge&logo=github)](https://github.com/arshad-shaikh81)
 [![Gmail](https://img.shields.io/badge/Gmail-shekharshadulhak011-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekharshadulhak011@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshad-shaikh81)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshad-shaikh-990878365/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://arshadportfolio-seven.vercel.app/)
 
 </div>
 
@@ -90,36 +84,10 @@ A passionate **Full Stack Developer** with a deep love for building scalable, pr
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arshad-shaikh81&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-shaikh81&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
+<br/>
+
 <img width="60%" src="https://streak-stats.demolab.com?user=arshad-shaikh81&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=arshad-shaikh81&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/arshad-shaikh81/arshad-shaikh81/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<!-- Footer Wave -->
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=twinkling" />
-
-*"Code is not just syntax — it's a solution to someone's problem."*
-
-</div>
