@@ -82,6 +82,6 @@ I am a college student who loves learning new things, improving skills, and expl
 
 | 🧩 DSA Problems Solved | 🛠 Projects Built | 💻 Technologies Learned | 📅 Years of Learning |
 |:---:|:---:|:---:|:---:|
-| **50+** | **5+** | **10+** | **1+** |
+| **50+** | **5+** | **10+** | **2+** |
 
 </div>
