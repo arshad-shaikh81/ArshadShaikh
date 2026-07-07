@@ -67,7 +67,7 @@ I am a college student who loves learning new things, improving skills, and expl
 
 <br/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=arshad-shaikh81&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img width="60%" src="https://streak-stats.demolab.com?user=arshad-shaikh81&theme=tokyonight&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
 
