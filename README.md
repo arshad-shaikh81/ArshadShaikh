@@ -67,7 +67,8 @@ I am a college student who loves learning new things, improving skills, and expl
 
 <br/>
 
-<img width="60%" src="https://github-readme-streak-stats-eight.vercel.app?user=arshad-shaikh81&theme=tokyonight&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img width="60%" src="https://github-readme-streak-stats-eight.vercel.app?user=arshad-shaikh81&theme=tokyonight&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&cache_seconds=0" />
+
 </div>
 
 ---
