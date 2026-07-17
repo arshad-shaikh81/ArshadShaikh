@@ -73,6 +73,20 @@ I am a college student who loves learning new things, improving skills, and expl
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arshad-shaikh81/arshad-shaikh81/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arshad-shaikh81/arshad-shaikh81/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/arshad-shaikh81/arshad-shaikh81/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## ✨ Quick Facts
 
 🚀 Problem Solver &nbsp;|&nbsp; 🤝 Team Player &nbsp;|&nbsp; 📚 Continuous Learner &nbsp;|&nbsp; 💡 Tech Enthusiast
