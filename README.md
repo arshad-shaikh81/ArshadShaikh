@@ -63,7 +63,7 @@ I am a college student who loves learning new things, improving skills, and expl
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-shaikh81&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arshad-shaikh81&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
